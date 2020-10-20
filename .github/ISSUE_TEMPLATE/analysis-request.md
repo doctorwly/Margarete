@@ -2,8 +2,8 @@
 name: Analysis request
 about: Describe an analysis you want to do
 title: ''
-labels: ''
-assignees: ''
+labels: analysis request
+assignees: zhouyiqi91
 
 ---
 
