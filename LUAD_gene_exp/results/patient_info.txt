@@ -1,0 +1,5 @@
+name	orig	new	ID	Gender	Age	Smoker	Subtype	T	N	M	Stage	Mutation	mutation	type
+	S18T_1	P18	1143901	F	60	N	LUAD	1	0	0	IA	0	Wt	LUAD_Wt
+	S32T_1	P19	1145047	M	68	Y	LUAD	1	0	0	IA	0	Wt	LUAD_Wt
+	S36T_1	P20	1148012	F	46	N	LUAD	1	0	0	IA	0	Wt	LUAD_Wt
+	S44T_2	P21	1146648	F	73	N	LUAD	2	2	0	IIIA	0	Wt	LUAD_Wt
